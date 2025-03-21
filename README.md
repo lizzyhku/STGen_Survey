@@ -2,9 +2,9 @@
 |  Title  |   Venue  |   Date   |   Method   |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 |  Spatial-temporal Representation Learning  |
-|    |  WWW 2024   |    |  UrbanCLIP  |    |    |
-|    |  ICLR 2024  |    |  STLLM  |    |    |
-|    |  COMPUT COMMUN  |    |  Liu et al  |    |    |
+|  UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web  |  WWW 2024   |  2024-05  |  UrbanCLIP  |  [Github](https://github.com/stupidbuluchacha/urbanclip)  |  -  |
+|  Spatio-Temporal Graph Learning with Large Language Model  |  ICLR 2024  |  2024-05  |  STLLM  |  -  |  -  |
+|  Cstrm: Contrastive self-supervised trajectory representation model for trajectory similarity computation  |  COMPUT COMMUN  |  2022-03  |  Liu et al  |  -  |  -  |
 |    |  ICDE 2023  |    |  START  |    |    |
 |    |  FUTURE GENER COMP SY  |    |  TrajRCL  |    |    |
 |    |  WWW 2023   |    |  AutoST  |    |    |
