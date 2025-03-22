@@ -12,3 +12,13 @@
 |  DiffPose: SpatioTemporal Diffusion Model for Video-Based Human Pose Estimation  |  ICCV 2023  |  2023-10  |  DiffPose  |  -  |  -  |
 |  TrajGAT: A Graph-based Long-term Dependency Modeling Approach for Trajectory Similarity Computation  |  KDD 2022  |  2022-08  |  TrajGAT  |  -  |  -  |
 |  Learning Trajectory-Aware Transformer for Video Super-Resolution  |  CVPR 2022  |  2022-07  |  TTVSR  |  [Github](https://github.com/researchmm/TTVSR)  |  -  |
+|  Spatial-temporal Forecasting  |    |    |    |    |    |
+|  PromptCast: A New Prompt-Based Learning Paradigm for Time Series Forecasting  |  TKDE  |  2024-11  |  PromptCast  |  [Github](https://github.com/haounsw/pisa)  |  -  |
+|  Temporal Data Meets LLM -- Explainable Financial Time Series Forecasting  |  Arxiv 2023  |  2023-06  |  Yu et al.  |  -  |  -  |
+|  One Fits All: Power General Time Series Analysis by Pretrained LM  |  NeurIPS 2023  |  2023-12  |  FPT  |  [Github](https://github.com/DAMO-DI-ML/NeurIPS2023-One-Fits-All)  |  -  |
+|  Large Language Models Are Zero-Shot Time Series Forecasters  |  NeurIPS 2023  |  2023-12  |  LLMTIME   |  [Github](https://github.com/ngruver/llmtime)  |  -  |
+|  Spatial-Temporal Large Language Model for Traffic Prediction**  |  MDM 2024  |  2024-06  |  ST-LLM  |  [Github](https://github.com/ChenxiLiu-HNU/ST-LLM)  |  -  |
+|  UniST: A Prompt-Empowered Universal Model for Urban Spatio-Temporal Prediction**  |  KDD 2024  |  2024-08  |  UniST  |  [Github](https://github.com/tsinghua-fib-lab/unist)  |  -  |
+|  GPT4MTS: Prompt-based Large Language Model for Multimodal Time-series Forecasting  |  AAAI 2024  |  2024-03  |  GPT4MTS   |  -  |  -  |
+|  Time-LLM: Time Series Forecasting by Reprogramming Large Language Models  |  ICLR 2024  |  2024-05  |  Time-LLM  |  [Github](https://github.com/kimmeen/time-llm)  |  [Github](https://github.com/kimmeen/time-llm)  |
+|  TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting  |  ICLR 2024  |  2024-05  |  TEMPO  |  [Github](https://github.com/dc-research/tempo)  |  [Github](https://github.com/dc-research/tempo)  |
