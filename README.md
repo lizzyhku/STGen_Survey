@@ -30,3 +30,16 @@
 |  Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction  |  AAAI 2023  |  2023-07  |  ST-SSL  |  [Github](https://github.com/echo-ji/st-ssl)  |  -  |
 |  Spatiotemporal Self-Supervised Learning for Point Clouds in the Wild  |  CVPR 2023  |  2023-06  |  Wu et al.  |  [Github](https://github.com/yanhaowu/stssl)  |  -  |
 |  Language-based Action Concept Spaces Improve Video Self-Supervised Learning  |  NeurIPS 2023  |  2023-05  |  LSS-A  |  -  |  -  |
+|  ChatTraffic: Text-to-Traffic Generation via Diffusion Model  |  T-ITS 2025  |  2025-02  |  ChatTraffic  |  [Github](https://github.com/ChyaZhang/ChatTraffic)  |  -  |
+|  Towards Unifying Diffusion Models for Probabilistic Spatio-Temporal Graph Learning  |  SIGSPATIAL 2024  |  2024-09  |  USTD  |  -  |  -  |
+|  Dynamic Causal Explanation Based Diffusion-Variational Graph Neural Network for Spatiotemporal Forecasting  |  TNNLS 2024  |  2024-07  |  DVGNN  |  -  |  -  |
+|  Towards Generative Modeling of Urban Flow through Knowledge-enhanced Denoising Diffusion  |  SIGSPATIAL 2023   |  2023-12  |  KSTDif  |  [Github](https://github.com/tsinghua-fib-lab/kstdiff-urban-flow-generation)  |  -  |
+|  DiffSTG: Probabilistic Spatio-Temporal Graph Forecasting with Denoising Diffusion Models  |  SIGSPATIAL 2023   |  2023-12  |  DiffSTG  |  [Github](https://github.com/wenhaomin/DiffSTG)  |  -  |
+|  DiffTraj: Generating GPS Trajectory with Diffusion Probabilistic Model  |  NeurIPS 2023  |  2023-12  |  Diff-Traj  |  [Github](https://github.com/Yasoz/DiffTraj)  |  -  |
+|  TPLLM: A Traffic Prediction Framework Based on Pretrained Large Language Models  |  INT J GEOGR INF SCI  |  2024-03  |  TPLLM  |  -  |  -  |
+|  SpecSTG: A Fast Spectral Diffusion Framework for Probabilistic Spatio-Temporal Traffic Forecasting  |  Arxiv 2024  |  2024-08  |  SpecSTG  |  [Github](https://anonymous.4open.science/r/SpecSTG/README.md)  |  -  |
+|  SRNDiff: Short-term Rainfall Nowcasting with Condition Diffusion Model  |  Arxiv 2024  |  2024-02  |  SRNDiff  |  [Github](https://github.com/ybu-lxd/SRNDiff)  |  -  |
+|  Diff-RNTraj: A Structure-Aware Diffusion Model for Road Network-Constrained Trajectory Generation  |  TKDE 2024  |  2024-12  |  Diff-RNTraj  |  [Github](https://github.com/wtl52656/diff-rntraj)  |  -  |
+|  Graph Convolution Recurrent Denoising Diffusion Model for Multivariate Probabilistic Temporal Forecasting  |  ADMA 2023  |  2023-05  |  GCRDD  |  -  |  -  |
+|  Simulating human mobility with a trajectory generation framework based on diffusion model  |  GIS 2024  |  2024-02  |  TrajGDM  |  -  |  -  |
+|  Weather Prediction with Diffusion Guided by Realistic Forecast Processes  |  Arxiv 2024  |  2024-02  |  Hua et al.  |  -  |  -  |
