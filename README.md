@@ -4,7 +4,7 @@
 |  Spatial-temporal Representation Learning  |
 |  UrbanCLIP: Learning Text-enhanced Urban Region Profiling with Contrastive Language-Image Pretraining from the Web  |  WWW 2024   |  2024-05  |  UrbanCLIP  |  [Github](https://github.com/stupidbuluchacha/urbanclip)  |  -  |
 |  Spatio-Temporal Graph Learning with Large Language Model  |  ICLR 2024  |  2024-05  |  STLLM  |  -  |  -  |
-|  CSTRM: Contrastive Self-Supervised Trajectory Representation Model for trajectory similarity computation  |  COMPUT COMMUN  |  2022-03  |  Liu et al  |  -  |  -  |
+|  CSTRM: Contrastive Self-Supervised Trajectory Representation Model for trajectory similarity computation  |  COMPUT COMMUN  |  2022-03  |  Liu et al.  |  -  |  -  |
 |  Self-supervised Trajectory Representation Learning with Temporal Regularities and Travel Semantics  |  ICDE 2023  |  2023-07  |  START  |  [Github](https://github.com/aptx1231/start)  |  -  |
 |  Self-supervised contrastive representation learning for large-scale trajectories  |  FUTURE GENER COMP SY  |  2023-11  |  TrajRCL  |  -  |  -  |
 |  Automated Spatio-Temporal Graph Contrastive Learning  |  WWW 2023   |  2023-04  |  AutoST  |  [Github](https://github.com/hkuds/autost)  |  -  |
@@ -22,3 +22,11 @@
 |  GPT4MTS: Prompt-based Large Language Model for Multimodal Time-series Forecasting  |  AAAI 2024  |  2024-03  |  GPT4MTS   |  -  |  -  |
 |  Time-LLM: Time Series Forecasting by Reprogramming Large Language Models  |  ICLR 2024  |  2024-05  |  Time-LLM  |  [Github](https://github.com/kimmeen/time-llm)  |  [Github](https://github.com/kimmeen/time-llm)  |
 |  TEMPO: Prompt-based Generative Pre-trained Transformer for Time Series Forecasting  |  ICLR 2024  |  2024-05  |  TEMPO  |  [Github](https://github.com/dc-research/tempo)  |  [Github](https://github.com/dc-research/tempo)  |
+|  Spatial-Temporal Transformer Networks for Traffic Flow Forecasting  |  Arxiv 2021  |  2021-03  |  STTN  |  -  |  -  |
+|  When Do Contrastive Learning Signals Help Spatio-Temporal Graph Forecasting?  |  SIGSPATIAL 2022  |  2022-11  |  Liu et al.  |  [Github](https://github.com/liuxu77/stgcl)  |  -  |
+|  Self-Supervised Video Transformer  |  CVPR 2022  |  2022-07  |  SVT  |  [Github](https://github.com/kahnchana/svt)  |  -  |
+|  Forecasting Fine-Grained Urban Flows Via Spatio-Temporal Contrastive Self-Supervision  |  TKDE 2023  |  2023-08  |  UrbanSTC  |  -  |  -  |
+|  W-MAE: Pre-trained weather model with masked autoencoder for multi-variable weather forecasting  |  Arxiv 2023  |  2023-12  |  W-MAE  |  [Github](https://github.com/gufrannn/w-mae)  |  -  |
+|  Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction  |  AAAI 2023  |  2023-07  |  ST-SSL  |  [Github](https://github.com/echo-ji/st-ssl)  |  -  |
+|  Spatiotemporal Self-Supervised Learning for Point Clouds in the Wild  |  CVPR 2023  |  2023-06  |  Wu et al.  |  [Github](https://github.com/yanhaowu/stssl)  |  -  |
+|  Language-based Action Concept Spaces Improve Video Self-Supervised Learning  |  NeurIPS 2023  |  2023-05  |  LSS-A  |  -  |  -  |
